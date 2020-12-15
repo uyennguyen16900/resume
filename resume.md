@@ -6,7 +6,7 @@ Uyen Nguyen
 
 Education
 ---------
-**B.S. in Applied Computer Science, Make School**						          	    December 2021
+**B.S. in Applied Computer Science, Make School**						          	    (August 2019 - December 2021)
 
 Experience
 ---------
